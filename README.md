@@ -2,6 +2,8 @@
 
 A simple Connect Four game developed with Vue 3, TypeScript, and Vite. The game allows two players to take turns dropping stones into a 7x6 grid to connect four stones in a row.
 
+## [play here](https://slowknit.github.io/connect-four/index.html)
+
 ## Features
 
 - Two-player mode
